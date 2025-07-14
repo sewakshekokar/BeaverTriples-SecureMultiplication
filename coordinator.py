@@ -1,10 +1,3 @@
-"""
-MPC Coordinator for secure multi-party computations
-Supports:
-- Additive and XOR secret sharing
-- Parallel secure multiplications
-- Dot product computation
-"""
 
 import socket
 import threading
