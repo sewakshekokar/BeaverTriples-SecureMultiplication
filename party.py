@@ -1,10 +1,3 @@
-"""
-MPC Party implementation supporting:
-- Additive and XOR secret sharing
-- Parallel secure multiplications
-- Dot product computation
-"""
-
 import socket
 import pickle
 from typing import Dict, List
